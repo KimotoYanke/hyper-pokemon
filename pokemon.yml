@@ -1066,6 +1066,13 @@ pokemon:
     tertiary: '#BA5F79'
     unibody: '#F4C6D3'
 
+  # Fanmade Pokemon
+  adgeot:
+    primary: '#515151'
+    secondary: '#DEAA87'
+    tertiary: '#BF6B34'
+    unibody: '#172F5C'
+
 ##
 # Default values
 ##
